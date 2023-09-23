@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LostPersona
+- 👋 Hi, I’m @LostPersona and I'm 21 years old.
 
-- 👀 I’m interested in creating my Java and Python code.
+- 🖥️ **Java** and **Python** are my passion.
 
-- 💞️ I’m looking to collaborate on some stuff regarding my studying in FH Burgenland.
+- 📖 Currently studying in **Fachochschule Burgenland**.
 
 - 📫 How to reach me: write me an email on artdvmail@gmail.com.
 
-- LET'S CODE!
+- Let's do this!
 
