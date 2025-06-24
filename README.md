@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @LostPersona and I'm 22 years old.
+- 👋 Hi, I’m @LostPersona and I'm 23 years old.
 
 - 🖥️ **Java** and **Python** are my passion.
 
-- 📖 Currently studying in **Fachhochschule Burgenland**.
+- 📖 Got a degree, namely **Bachelor of Science in Engineering** (BSc).
+
 
 - 📫 How to reach me: write me an email on artdvmail@gmail.com.
 
