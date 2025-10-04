@@ -19,7 +19,7 @@ My personal motto: **“Do it good, in time, and with the least amount of effort
 <details>
 <summary>Fun facts</summary>
 
-- I really like playing guitar, but have absolutely zero talent towards it.
+- I really like playing the guitar, but have absolutely zero talent towards it.
 - I once drank 5 liters of black tea, while I was coding for 12 hours straight (no joke).
 - Feeling like a jack of all trades sometimes.
 </details>
