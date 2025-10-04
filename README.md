@@ -1,7 +1,7 @@
 # Hi, I'm Artem Daminov or LostPersona 👋
 
 **BSc, Software Engineering & Networked Systems (FH Burgenland)**  
-**he/him · based in Austria · 23**
+**based in Austria · 23**
 
 I want to build practical software that solves real problems with the least amount of friction.  
 My personal motto: **“Do it good, in time, and with the least amount of effort.”**
